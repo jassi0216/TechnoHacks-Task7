@@ -1,0 +1,1 @@
+Create a dashboard to show the factors for which employees of this company are resigning (Attriting) this company
